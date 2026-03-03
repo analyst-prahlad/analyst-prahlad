@@ -163,7 +163,7 @@ I focus on:
 
 ## 📬 Contact
 
-<div align="center">
+<div align="center"> 
 
 📧 <a href="mailto:prahladsomapurkar@gmail.com">prahladsomapurkar@gmail.com</a>  
 🔗 <a href="https://linkedin.com/in/prahladsomapurkar">linkedin.com/in/prahladsomapurkar</a>  
