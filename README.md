@@ -159,6 +159,17 @@ I focus on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
 
+
+## 💼 Internships
+
+| Company | Role | Duration | Experience |
+|---------|------|----------|------------|
+| **Cravita Technologies Pvt. Ltd., Pune** | **Data Analytics Engineer Intern** | **Jan 2026 – Feb 2026** | • Analyzed customer behavior, rental booking, and sales datasets using **SQL, Python (Pandas), Excel, and Power BI** to identify trends and business insights.<br><br>• Built interactive dashboards and KPI reports that enabled stakeholders to monitor sales performance, customer activity, and operational metrics more effectively. |
+| **MAHLE ANAND Thermal Systems Pvt. Ltd., Greater Noida** | **Industrial Data Analyst Trainee** | **Feb 2023 – Jun 2023** | • Analyzed production and machine performance data using **Excel and SQL** to monitor KPIs, identify downtime patterns, and improve operational efficiency.<br><br>• Automated daily production reports and created data-driven summaries to support manufacturing teams in monitoring productivity and process performance. |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
+
+
 ## 📊 Data Analytics Projects
 
 | Project | Description | Tech Stack |
