@@ -129,11 +129,15 @@ I focus on:
 
 ## 📬 Contact
 
+
+
 <div align="center">
 
-📧 <a href="mailto:prahladsomapurkar@gmail.com">prahladsomapurkar@gmail.com</a>
-🔗 <a href="https://linkedin.com/in/prahladsomapurkar">linkedin.com/in/prahladsomapurkar</a>
-🌐 <a href="https://codingprahlad.io">codingprahlad.io</a>
+📧 <a href="mailto:prahladsomapurkar@gmail.com">prahladsomapurkar@gmail.com</a> •
+💼 <a href="https://www.linkedin.com/in/analyst-prahlad/">LinkedIn</a> •
+💻 <a href="https://github.com/analyst-prahlad">GitHub</a>
+
+
 
 </div>
 
