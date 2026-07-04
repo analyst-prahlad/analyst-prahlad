@@ -43,7 +43,7 @@ I focus on:
 | Degree | Institution | CGPA | Status |
 |---------|-------------|------|--------|
 | **B.Tech in Computer Science & Engineering** | **Srinivas University Institute of Engineering & Technology, Mangaluru** | **7.50/10** | Graduated (2026) |
-| **Diploma in Electrical & Electronics Engineering** | **Government Polytechnic Karwar, Uttara Kannada** | **7.52/10** | Completed |
+| **Diploma in Electrical & Electronics Engineering** | **Government Polytechnic Karwar, Uttara Kannada** | **7.52/10** | Graduated (2023) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
 
