@@ -37,6 +37,30 @@ I focus on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
 
+
+## 🎓 Education
+
+| Degree | Institution | CGPA | Status |
+|---------|-------------|------|--------|
+| **B.Tech in Computer Science & Engineering** | **Srinivas University Institute of Engineering & Technology, Mangaluru** | **7.50/10** | Graduated (2026) |
+| **Diploma in Electrical & Electronics Engineering** | **Government Polytechnic Karwar, Uttara Kannada** | **7.52/10** | Completed |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Organization | Year |
+|---------------|--------------|------|
+| 🎓 Google Data Analytics Foundations – *Data, Data, Everywhere* | Google / Coursera | 2026 |
+| 💼 Data Analytics Job Simulation | Deloitte Forage | 2026 |
+| ☁️ AWS Academy Cloud Foundations | Amazon Web Services (AWS Academy) | 2025 |
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
+
 ## 🧰 Technical Skills
 
 <div align="center">
