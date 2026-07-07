@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,12,20,24,30&text=Prahlad%20Somapurkar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=📊+Data+Analyst;📈+Power+BI+Developer;🐍+Python+%7C+SQL;🚀+Open+to+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=📊+Data+Analyst;📈+Business+Analyst;📉+MIS+Executive;📋+MIS+Reporting+Analyst;📊+Power+BI+Developer;📑+Reporting+Analyst;📊+Business+Intelligence+Analyst;📈+Data+Visualization+Specialist;📂+SQL+Developer;🐍+Python+Developer;📊+Excel+%7C+SQL+%7C+Power+BI;🚀+Open+to+Work"/>
 
 <!-- SOCIAL BADGES -->
 <p>
